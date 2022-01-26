@@ -15,17 +15,17 @@ Understanding these trends is important because then we come to know on which fa
 
 ### Graphs wrt to Hours,Days and Seasons
 
-#### Seasons Vs %Total Rented Bike Count
+### Seasons Vs %Total Rented Bike Count
 
 ![](https://lh6.googleusercontent.com/7vHRBJY9KCWi_EjGmmtjCLdAc6VAEB4p6OsgKAuxZVMTVxXtSER--icjMBkN1m41XCooIX7Jvq2Xm-WqD7654WnPSw6WMmzhr_r4jrlXyb998mnSqw_t6RyJyFrcOF9RnHckdW7z)
 
-Description: From the graph, it is evident that the least percent of bikes were rented in the winter and that maximum bikes were rented in the summer season. This aligns with the general thought that people do not prefer riding on a bike in winter as much as they would during other times. In this plot I have filtered out the winter season 2017 so that we can clearly observe the rented bike percentage across all seasons uniformly.
+##### Description: From the graph, it is evident that the least percent of bikes were rented in the winter and that maximum bikes were rented in the summer season. This aligns with the general thought that people do not prefer riding on a bike in winter as much as they would during other times. In this plot I have filtered out the winter season 2017 so that we can clearly observe the rented bike percentage across all seasons uniformly.
 
 Insight: The number of bike count in winter is very less maybe due to the cold weather.
 
 Possible solutions/suggestions: Giving a pair of good winter gloves, providing proper lights for the bikes, coming up with special rates for the winter season, and providing coupons.
 
-#### Average Rented Bike Count Vs Holiday/No Holiday
+### Average Rented Bike Count Vs Holiday/No Holiday
 
 ![](https://lh5.googleusercontent.com/WrdxIA8xrgbsU2OQKHT9mspt9BNZ1oInysZsIbTVr6rQiW-T6MvnFdNN6QyVzCnMi35o-tbyXKQ7z_wLAAhdbCHQV3Q-0EUKctlmk3rYWl8N-1at3ijvqgAsqxsxAI9EL5ccpmTw)
 
@@ -35,7 +35,7 @@ Insight: As there is significant difference in the number of bikes being rented 
 
 Possible solutions/suggestions: Coming up with some family discounts, special schemes for holidays.
 
-#### Average Rented Bike Count Vs Holiday/No Holiday across different Seasons
+### Average Rented Bike Count Vs Holiday/No Holiday across different Seasons
 
 ![](https://lh6.googleusercontent.com/hpTS03tomlhbzxMPAxtQiMmrvUzRsyq9bCwBIAOahwGFHqUlHwV-xCs8wbaJseZdjJ9t9A_zWIiTok5mZ08Sz3pHdtnLhV4P_M_f8pD6ZhFRWJZr1fDtMRSJm2J-hy817nT284K8)
 
@@ -45,7 +45,7 @@ Insights: Looking at this graph, it is also interesting to know that people pref
 
 Possible solutions/suggestions: Since the bike renting is not affected much in the summers, for now focusing on increasing sales for other seasons, especially winter should be kept in mind.
 
-#### Sum of Rented Bike Count Vs Hour
+### Sum of Rented Bike Count Vs Hour
 
 ![](https://lh4.googleusercontent.com/w1xsO0vUYTc-r8EW2EsSKYewumsPXI4iZ2DhkteL5YeW-ZHEQcyfKks3BHpPsk6v4rykvtULsPA1grsDLPBK3Y-UnGY-2ocBwXEgiE2zAtFEVa439KhSryOQ67hk9pabkSYWNU2m)
 
@@ -53,7 +53,7 @@ Description: The bikes rented can be further observed on an hourly basis. This b
 
 Insights:The reason for this could be people are using bikes for travelling to work,  schools, or for exercising.
 
-#### Sum of Rented Bike Count Vs Hour across Different Seasons
+### Sum of Rented Bike Count Vs Hour across Different Seasons
 
 ![](https://lh4.googleusercontent.com/vCTr3o1b9gFs-Yp-FDWB-k1XWQDYyI0t2KURxYvQhL7h6KXZD5ZldTDIzOeYcZ-8roxZQ8tKPrCVOqll3OHHZgTR0OwLA2zK_JmR2oxpEZzfa-a6ZQ_HmbthmgXm9aAU8Z7C33c8)
 
@@ -63,7 +63,7 @@ Insights: An interesting thing which can be observed is that during noon time, f
 
 ### Graphs wrt to different Weather
 
-#### Average Rented Bike Count Vs Temperature(in celsius)
+### Average Rented Bike Count Vs Temperature(in celsius)
 
 ![](https://lh6.googleusercontent.com/AkEwHqwWBXxJR6bzealZdqpzs2dLzp4xj5iRSIpe3o7NzHbrWfZiBXfz2VoKQ3h91mHrcZOB0MPlElqmKblMbLmKVdlOGlEk3GeIVrO-a1JxygcEK4CjRpDb509IwksW1TA3JJz7)
 
@@ -73,7 +73,7 @@ Insights: We can see that when the temperature is too low or too high the number
 
 Possible solutions/suggestions: It is possible to provide the renters with complimentary energy drinks and protein bars and enable the bikes to have a place to keep them on bike.
 
-#### Average Rented Bike Count Vs Rainfall
+### Average Rented Bike Count Vs Rainfall
 
 ![](https://lh5.googleusercontent.com/GjmOZdd0Gt6_-GopOeIhzCVGEm7eWhXM_06qnmho8L0oQuF_b9zpIoNUIyAgxPRao9Gu_JtnwhjiTcDrdSEteJV1D0rCHVHYZEsRLcVX2GT8YWyh5TyA4ETmtBb_225txNIcSNe2)
 
@@ -83,7 +83,7 @@ Insights: It aligns with the thought that people would prefer renting bikes when
 
 Possible solutions/suggestions: It is suggested to check once if this trend is observed due to preference of people or if the bikes are not capable of being used during rains.
 
-#### Average Rented Bike Count Vs Snowfall
+### Average Rented Bike Count Vs Snowfall
 
 ![](https://lh6.googleusercontent.com/spB3QNYr_P5P3i9QEumkGX9wlN_c2itCi7spwJEd2PtBwfzlCKBkfh5CSmQJuX9z7VBq_gSRkb7WhazbBorncGRV0lLYASiAnXHPz8nju5RqCgBn5_PgRRYi8IryazZAZ4kimd-8)
 
@@ -93,7 +93,7 @@ Insights: It aligns with the thought that people would prefer renting bikes when
 
 Possible solutions/suggestions: It is suggested to check once if this trend is observed due to preference of people or if the bikes are not capable of being used during snows. Check for the tiresif they can be used in snow safely, brakes etc.
 
-#### Average of Rented Bike Count Vs Humidity(%)
+### Average of Rented Bike Count Vs Humidity(%)
 
 ![](https://lh4.googleusercontent.com/cS0f8EVSyRXbVU4HytEBGHXWPW94qo5BhctIi8O79jVKU_5A2gPN_hOwUd74Q4gKU1NU2ezVVLDk-LvKkmh-BNBTY0GMcJoXHXxv50cZcDOTar3jCrh3gTASpmk7o4nTKHtUbAVJ)
 
@@ -101,7 +101,7 @@ Description: We can also see if humidity had any particular effects on the bikes
 
 Insights: It seems like humidity does not really play a role in determining the bikes being rented in general.
 
-#### Average of Rented Bike Count Vs Wind Speed(m/s)
+### Average of Rented Bike Count Vs Wind Speed(m/s)
 
 ![](https://lh3.googleusercontent.com/lOWuErT-O-DPCNgqN1wbCzFSreHfS0uvsthJ3m0qOIPya9HiZMprkB02biQFf7S_7j-OndBjqARHU9H4zZx8dYN4Ifi2pbKiwkOFctInzsPM892FvojKpYOADYrWSZwishxiTRMm)
 
@@ -109,7 +109,7 @@ Description: The graph can help us know if it's windy then do people prefer rent
 
 Insight:It can be said that there is no particular pattern which can be observed between the rented bike count and wind speed.
 
-#### Average of Rented Bike Count Vs Visibiity
+### Average of Rented Bike Count Vs Visibiity
 
 ![](https://lh3.googleusercontent.com/hwhoRA2GWlZyf17AJwBaAQyy_mwTdOr9xChRNcDX9Sr4OrO4hCG3O7w-rTxhl0VyWC6qCEDe-f7UXGWGgyRMa7eRPuNvq4K37_FqUfe1UcxdeYsKrzUvmAWELNJQ-VMVSIxkkOHA)
 
@@ -117,7 +117,7 @@ Description: We can also see how visibility affects the bikes rented. People wou
 
 Insight: However from the graph we can see that visibility is not really a good measure to know how many bikes would be rented as there is no particular pattern between visibility and the rented bike count.
 
-#### Average Rented Bike Count Vs Solar Radiation
+### Average Rented Bike Count Vs Solar Radiation
 
 ![](https://lh6.googleusercontent.com/Ht7fbpfCLaL9vDOmwSdIk9-qnHM-BfAnCWSioL2idE9cVwQ0ekkF-0hDZ55LSfTjJ45x4rkIrsUy0bPxFEEc6vWvpCjKKReO72dcLs2GJ28X1v_A2SGuBM3p7uIr8iwsX9Iv3IRl)
 
@@ -125,7 +125,7 @@ Description: We can also see if Solar Radiation affects the number of bikes bein
 
 Insight: Solar Radiation definitely affects the number of bikes being rented. It is evident from the above graph that in its presence there are a greater number of bikes which are rented than in its absence.
 
-#### Average Rented Bike Count Vs Solar Radiation in different Seasons
+### Average Rented Bike Count Vs Solar Radiation in different Seasons
 
 ![](https://lh6.googleusercontent.com/xx1pBkQ7g_a39cos22nR4SjF7CmnuKmn7aXp6ligd-AnRYQuxPS8akby75JQ8_vL0VdDoU0ofVPNdv-QpLfeEmQXlofjDwhjLsXQGMaiOI_PuDrbhweBfMnG2TGFaAuTP0SdUuxC)
 
@@ -133,7 +133,7 @@ Description: Since we know that there is a relation between Solar Radiations pre
 
 Insights: So we can expect a greater number of bikes being rented if a day is sunny compared to the other days when it's not sunny in any season. There is no exceptional pattern for any season here. Across all seasons, a sunny day will have higher count of bikes being rented than when there is no sun.
 
-#### Average of Rented Bike Count Vs Dew Point Temperature
+### Average of Rented Bike Count Vs Dew Point Temperature
 
 ![](https://lh3.googleusercontent.com/QPvHQktXcuC9mY0J54qKrP3BpWQJq7ZnCoz_KOcjDqhSPhzBC9H6_G18ijwFE6_hueolQEcDvmE5B9atGy4HWZe24ITUxsrAEKQmCQR-e0YK-hWDhbioTlgxyUuTTpdEjfT_yf-I)
 
@@ -141,7 +141,7 @@ Description: We can also check if the dew point has some kind of relation with t
 
 Insight: The graph is similar to that of temperature vs average rented bike count. So temperature and dew point temperature can be considered to be more or less same. Both have a similar effect on the bikes being rented.
 
-#### Correlation Matrix 
+### Correlation Matrix 
 
 ![](https://lh6.googleusercontent.com/pDMkkVccLuMIqbqKKeBmcETAHgt3EWm-5lwW6u4fTw4msm7qqNlaTzMBtjAidqw0eoNhwPQ-8l4Lyb-R9PUlXtmIdKyvgDpX0u2LDoelvUovfjwhXl4kvm_xzbJGWMocaAUoHT5B)
 
