@@ -129,7 +129,7 @@ Possible solutions/suggestions: Since the bike renting is not affected much in t
 
 ![](https://lh6.googleusercontent.com/xx1pBkQ7g_a39cos22nR4SjF7CmnuKmn7aXp6ligd-AnRYQuxPS8akby75JQ8_vL0VdDoU0ofVPNdv-QpLfeEmQXlofjDwhjLsXQGMaiOI_PuDrbhweBfMnG2TGFaAuTP0SdUuxC)
 
-**Description**: Since we know that there is a relation between Solar Radiations presence and absence we can also try to check if it affects in all seasons or it affects only in particular seasons or if there is some exceptional relation in some season. We can also see how solar radiations affect the number of bikes being rented especially in summers and winters.
+**Description**: Since we know that there is a relation between Solar Radiations presence and absence we can also try to check if it affects in all seasons or it affects only in particular seasons or if there is some exceptional relation in some season. We can also see how solar radiations affect the number of bikes being rented especially in summers and winters. The colour red represents Summer, blue represents Autumn, yellow represents Spring and green represent Winter. 
 
 **Insight**: So we can expect a greater number of bikes being rented if a day is sunny compared to the other days when it's not sunny in any season. There is no exceptional pattern for any season here. Across all seasons, a sunny day will have higher count of bikes being rented than when there is no sun.
 
