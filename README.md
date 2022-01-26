@@ -19,7 +19,7 @@ Understanding these trends is important because then we come to know on which fa
 
 ![](https://lh6.googleusercontent.com/7vHRBJY9KCWi_EjGmmtjCLdAc6VAEB4p6OsgKAuxZVMTVxXtSER--icjMBkN1m41XCooIX7Jvq2Xm-WqD7654WnPSw6WMmzhr_r4jrlXyb998mnSqw_t6RyJyFrcOF9RnHckdW7z)
 
-##### Description: From the graph, it is evident that the least percent of bikes were rented in the winter and that maximum bikes were rented in the summer season. This aligns with the general thought that people do not prefer riding on a bike in winter as much as they would during other times. In this plot I have filtered out the winter season 2017 so that we can clearly observe the rented bike percentage across all seasons uniformly.
+Description: From the graph, it is evident that the least percent of bikes were rented in the winter and that maximum bikes were rented in the summer season. This aligns with the general thought that people do not prefer riding on a bike in winter as much as they would during other times. In this plot I have filtered out the winter season 2017 so that we can clearly observe the rented bike percentage across all seasons uniformly.
 
 Insight: The number of bike count in winter is very less maybe due to the cold weather.
 
@@ -29,7 +29,7 @@ Possible solutions/suggestions: Giving a pair of good winter gloves, providing p
 
 ![](https://lh5.googleusercontent.com/WrdxIA8xrgbsU2OQKHT9mspt9BNZ1oInysZsIbTVr6rQiW-T6MvnFdNN6QyVzCnMi35o-tbyXKQ7z_wLAAhdbCHQV3Q-0EUKctlmk3rYWl8N-1at3ijvqgAsqxsxAI9EL5ccpmTw)
 
-Description: It is noticed that very few of these bikes were rented when there was a holiday. Majority of the bikes were rented when there was no holiday. This helps us understand if the bikes were rented for sports/leisure activities or for some kind of work.
+**Description**: It is noticed that very few of these bikes were rented when there was a holiday. Majority of the bikes were rented when there was no holiday. This helps us understand if the bikes were rented for sports/leisure activities or for some kind of work.
 
 Insight: As there is significant difference in the number of bikes being rented in holidays compared to when there was no holiday, we can say that it's possible that the bikes were rented majorly for work related purposes.
 
